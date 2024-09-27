@@ -21,7 +21,7 @@
 
 FORKER LE REPO (Repo) 
     <br>
-<a href="https://github.com/BarryAllen100/BARRY-WEB/fork"><img title="WEB" src="https://img.shields.io/badge/FORK PARKY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/BarryAllen100/BARRY-WEB/fork"><img title="WEB" src="https://img.shields.io/badge/FORK BARRY-WEB?color=black&style=for-the-badge&logo=stackshare"></a>
 
 MAINTENANT DÉPLOIE 
     <br>
