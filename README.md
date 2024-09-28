@@ -28,9 +28,9 @@ MAINTENANT DÉPLOIE
 <a href='https://dashboard.render.com/
  template=https://github.com/BarryAllen100/BARRY-WEB' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/>
 
-[`VOILA UN EXEMPLE DE SITE DÉPLOYER `]()
+[`VOILA UN EXEMPLE DE SITE DÉPLOYER `](https://barry-web-rroi.onrender.com)
 # `proprietaire`
 
- <a href="https://github.com/BarryAllen100"><img src="https://github.com/BarryAllen100.png" width="250" height="250" alt="Jean Parker"/></a>
+ <a href="https://github.com/BarryAllen100"><img src="https://github.com/BarryAllen100.png" width="250" height="250" alt="Barry Allen"/></a>
 
 
